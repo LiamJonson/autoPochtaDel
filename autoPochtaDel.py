@@ -18,7 +18,7 @@ try:
         browser.find_element(By.CSS_SELECTOR, 'span.Checkbox-root-vD').click()
         browser.find_element(By.CSS_SELECTOR,
                              'div.ButtonWithIcon-root-5K.ButtonWithIcon-themeDark-3m.ToolbarItem-root-20').click()
-        #num = browser.find_element(By.CSS_SELECTOR, 'span.rui-Pagination-item').text     #not ready
+        #num = browser.find_element(By.CSS_SELECTOR, 'span.rui-Pagination-item').text      #not ready
         #if int(num[2:]) <= 1:                                                             #not ready
         #    print(int(num[2:]))                                                           #not ready
         #    n = False                                                                     #not ready
